@@ -43,8 +43,8 @@ Abre un Pull Request 🚀
 
 ## Autor
 
-📌 FUNCIONALIDAD: Evelin Alexia Mondragon
-    HTML, CSS: Alura Latam + Oracle
+📌 JS: Evelin Alexia Mondragon
+* HTML, CSS: Alura Latam + Oracle
 📧 evelin.student@gmail.com
 
   
